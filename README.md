@@ -1,6 +1,7 @@
 ## Quark Related References
 
 #### Conference
+- Axelle Apvrille, [Live Reverse of Android Malware](https://youtu.be/Z68TJvnepnY?t=5583), Toulouse Hacking Convention, 2021
 - Axelle Apvrille, [Reverse Android malware like a Jedi Master](https://vblocalhost.com/presentations/reverse-android-malware-like-a-jedi-master/), VB2021, 2021
 
 
