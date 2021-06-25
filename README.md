@@ -1,15 +1,18 @@
-# ref
+## Quark Related References
 
-## Conference
-
-https://vblocalhost.com/presentations/reverse-android-malware-like-a-jedi-master/
-
-
-## Training
-
-https://ringzer0.training/android-malware.html
+#### Conference
+- Axelle Apvrille, [Reverse Android malware like a Jedi Master](https://vblocalhost.com/presentations/reverse-android-malware-like-a-jedi-master/), VB2021, 2021
 
 
-## Paper
+#### Training
+- Axelle Apvrille, [Reverse Engineering of Modern Android Malware](https://ringzer0.training/android-malware.html), Ringzero, 2021
 
-https://static.s123-cdn.com/uploads/903920/normal_5fec08b3bcd16.pdf
+
+#### Paper
+- Hendrik Maulana Mardiyansyah, Eka Kurnia Sari, Imam Baehaki, Mohammad Agus
+Prihandono, [PAPIdroid: A Risk Scoring of Android Malware Apps Based on
+Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec08b3bcd16.pdf), AASE International Conference, 2020
+
+#### MISC
+- Paul Bischoff, [Flawed credential storage in top Android apps puts users at risk
+](https://www.comparitech.com/blog/information-security/flawed-credential-storage-android-apps/), Comparitech, 2021
