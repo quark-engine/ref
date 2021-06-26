@@ -23,3 +23,4 @@ Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec
 ](https://www.comparitech.com/blog/information-security/flawed-credential-storage-android-apps/), Comparitech, 2021
 - Quark Engine: The Storyteller of Android Malware, [Google Summer of Code Project](https://www.honeynet.org/gsoc/gsoc-2021/google-summer-of-code-2021-project-ideas/), 2021
 - Research Team, [Android Malware Analysis](https://github.com/ddeepp109/Android-Malware-Analysis), The Concordia University of Edmonton, 2021
+- YuShiang Dang, [New Rule Generation Technique & Make Quark Everywhere Among Security Open Source Projects](https://github.com/quark-engine/ref/blob/main/New_Rule_Generation_Technique__Make_Quark_Everywhere_Among_Security_Open_Source_Projects.pdf), Google Summer of Code, 2021
