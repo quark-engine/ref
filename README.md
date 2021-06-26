@@ -22,3 +22,4 @@ Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec
 - Paul Bischoff, [Flawed credential storage in top Android apps puts users at risk
 ](https://www.comparitech.com/blog/information-security/flawed-credential-storage-android-apps/), Comparitech, 2021
 - Quark Engine: The Storyteller of Android Malware, [Google Summer of Code Project](https://www.honeynet.org/gsoc/gsoc-2021/google-summer-of-code-2021-project-ideas/), 2021
+- Research Team, [Android Malware Analysis](https://github.com/ddeepp109/Android-Malware-Analysis), The Concordia University of Edmonton, 2021
