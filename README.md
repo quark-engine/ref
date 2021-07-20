@@ -1,9 +1,15 @@
 ## Quark Related References
 
 #### Conference
+
+- Quark-Engine, [Blackhat Asia Arsenal](https://www.blackhat.com/asia-21/arsenal/schedule/index.html#quark-engine-storyteller-of-android-malware-22458), 2021
+- Quark-Engine, [DEF CON 28 Blue Team Village](https://www.youtube.com/watch?v=XK-yqHPnsvc), 2020
+- Quark-Engine, [HITB LOCKDOWN 002](https://conference.hitb.org/hitb-lockdown002/sessions/quark-engine-an-obfuscation-neglect-android-malware-scoring-system/), 2020
+- Quark-Engine, [ROOTCON 14 InfoSec Conference Philippines](https://www.youtube.com/watch?v=SOH4eqrv9_g), 2020
+- Quark-Engine, [PyCon India](https://in.pycon.org/cfp/2020/proposals/so-you-want-to-build-an-anti-virus-engine~bDM6d/), 2020
+- Quark-Engine, [EuroPython](https://ep2020.europython.eu/talks/BDppVua-so-you-want-to-build-an-anti-virus-engine/), 2020
 - Axelle Apvrille, [Live Reverse of Android Malware](https://youtu.be/Z68TJvnepnY?t=5583), Toulouse Hacking Convention, 2021
 - Axelle Apvrille, [Reverse Android malware like a Jedi Master](https://vblocalhost.com/presentations/reverse-android-malware-like-a-jedi-master/), VB2021, 2021
-
 
 #### Training
 - Axelle Apvrille, [Reverse Engineering of Modern Android Malware](https://ringzer0.training/android-malware.html), Ringzero, 2021
