@@ -21,6 +21,7 @@
 - Hendrik Maulana Mardiyansyah, Eka Kurnia Sari, Imam Baehaki, Mohammad Agus
 Prihandono, [PAPIdroid: A Risk Scoring of Android Malware Apps Based on
 Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec08b3bcd16.pdf), AASE International Conference, 2020
+- Yu-Shiang Dang, Kun-Yu Chen, Sheng-Feng Lu, [Automatic Android Malware Detection Rule Generation based on Quark Engine](https://github.com/quark-engine/ref/blob/main/CCCISA-Quark-rule-generate%20v74.pdf), CCCISA, Vol. 28, No. 2, May 2022
 
 #### OS
 - Quark-Engine, [Kali Linux](https://pkg.kali.org/pkg/quark-engine), 2021
