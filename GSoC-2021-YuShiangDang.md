@@ -1,8 +1,6 @@
 ---
 title: GSoC-2021-YuShiangDang
 date: 2021-08-17 15:03:55
-index_img:
-tags:
 ---
 
 # New Rule Generation Technique & Make Quark Everywhere Among Security Open Source Projects

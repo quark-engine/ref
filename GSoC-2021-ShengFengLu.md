@@ -1,8 +1,6 @@
 ---
 title: GSoC-2021-ShengFengLu
 date: 2021-08-17 15:12:03
-index_img:
-tags:
 ---
 
 # Replace the core library of Quark-Engine
