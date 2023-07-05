@@ -27,6 +27,9 @@ Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec
 - Quark-Engine, [Kali Linux](https://pkg.kali.org/pkg/quark-engine), 2021
 - Quark-Engine, [BlackArch](https://blackarch.org/mobile.html), 2020
 
+#### Book Chapter
+Quark-Engine, [軟體測試實務：業界成功案例與高校實踐](https://www.tenlong.com.tw/products/9786263334861?list_name=lv), 2023
+
 #### MISC
 - Paul Bischoff, [Flawed credential storage in top Android apps puts users at risk
 ](https://www.comparitech.com/blog/information-security/flawed-credential-storage-android-apps/), Comparitech, 2021
