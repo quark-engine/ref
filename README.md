@@ -22,6 +22,7 @@
 Prihandono, [PAPIdroid: A Risk Scoring of Android Malware Apps Based on
 Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec08b3bcd16.pdf), AASE International Conference, 2020
 - Yu-Shiang Dang, Kun-Yu Chen, Sheng-Feng Lu, [Automatic Android Malware Detection Rule Generation based on Quark Engine](https://github.com/quark-engine/ref/blob/main/CCCISA-Quark-rule-generate%20v74.pdf), CCCISA, Vol. 28, No. 2, May 2022
+- Michele Agnello, [Security comparison between Xiaomi system applications and Xiaomi applications on the Google Play Store](https://github.com/quark-engine/ref/blob/main/Tesi_Michele_Agnello_1238581_Finale.pdf), Master Thesis, University of Padova, 2022
 
 #### OS
 - Quark-Engine, [Kali Linux](https://pkg.kali.org/pkg/quark-engine), 2021
@@ -37,3 +38,4 @@ Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec
 - Research Team, [Android Malware Analysis](https://github.com/ddeepp109/Android-Malware-Analysis), The Concordia University of Edmonton, 2021
 - ShengFeng Lu, [Replacing the core library of Quark-Engine](https://github.com/quark-engine/ref/blob/main/Replacing_the_core_library_of_Quark_Engine.pdf), Google Summer of Code, 2021
 - YuShiang Dang, [New Rule Generation Technique & Make Quark Everywhere Among Security Open Source Projects](https://github.com/quark-engine/ref/blob/main/New_Rule_Generation_Technique__Make_Quark_Everywhere_Among_Security_Open_Source_Projects.pdf), Google Summer of Code, 2021
+- João Paulo Barraca, [Android – Static Analysis 1](https://github.com/quark-engine/ref/blob/main/er-2-android_static.pdf)
