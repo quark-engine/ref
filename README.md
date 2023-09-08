@@ -23,6 +23,8 @@ Prihandono, [PAPIdroid: A Risk Scoring of Android Malware Apps Based on
 Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec08b3bcd16.pdf), AASE International Conference, 2020
 - Yu-Shiang Dang, Kun-Yu Chen, Sheng-Feng Lu, [Automatic Android Malware Detection Rule Generation based on Quark Engine](https://github.com/quark-engine/ref/blob/main/CCCISA-Quark-rule-generate%20v74.pdf), CCCISA, Vol. 28, No. 2, May 2022
 - Michele Agnello, [Security comparison between Xiaomi system applications and Xiaomi applications on the Google Play Store](https://github.com/quark-engine/ref/blob/main/Tesi_Michele_Agnello_1238581_Finale.pdf), Master Thesis, University of Padova, 2022
+- Patel, Himanshu, et al. ["Evaluation of Survivability of the Automatically Obfuscated Android Malware."](https://github.com/quark-engine/ref/blob/main/Evaluation%20of%20Survivability%20of%20the%20Automatically%20Obfuscated%20Android%20Malware.pdf) Applied Sciences 12.10 (2022): 4969.
+- Islam, Md Rafid, Ratun Rahman, and Akib Ahmed. [A Study of Permission-based Malware Detection Using Machine Learning.](https://github.com/quark-engine/ref/blob/main/Rafid_thesis_fulltext.pdf) Diss. Department of Computer Science and Engineering (CSE), Islamic University of Technology (IUT), Board Bazar, Gazipur, Bangladesh, 2022.
 
 #### OS
 - Quark-Engine, [Kali Linux](https://pkg.kali.org/pkg/quark-engine), 2021
