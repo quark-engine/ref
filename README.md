@@ -25,6 +25,7 @@ Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec
 - Michele Agnello, [Security comparison between Xiaomi system applications and Xiaomi applications on the Google Play Store](https://github.com/quark-engine/ref/blob/main/Tesi_Michele_Agnello_1238581_Finale.pdf), Master Thesis, University of Padova, 2022
 - Patel, Himanshu, et al. ["Evaluation of Survivability of the Automatically Obfuscated Android Malware."](https://github.com/quark-engine/ref/blob/main/Evaluation%20of%20Survivability%20of%20the%20Automatically%20Obfuscated%20Android%20Malware.pdf) Applied Sciences 12.10 (2022): 4969.
 - Islam, Md Rafid, Ratun Rahman, and Akib Ahmed. [A Study of Permission-based Malware Detection Using Machine Learning.](https://github.com/quark-engine/ref/blob/main/Rafid_thesis_fulltext.pdf) Diss. Department of Computer Science and Engineering (CSE), Islamic University of Technology (IUT), Board Bazar, Gazipur, Bangladesh, 2022.
+- ChunYu Zhunag, [Ethical Hacking of a Smart IoT Camera](https://github.com/quark-engine/ref/blob/main/Ethical%20Hacking%20of%20a%20Smart%20IoT%20Camera.pdf), Degree Project in Communication Systems, KTH Royal Institute of Technology, Stockholm, Sweden, 2023.
 
 #### OS
 - Quark-Engine, [Kali Linux](https://pkg.kali.org/pkg/quark-engine), 2021
