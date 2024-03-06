@@ -2,6 +2,7 @@
 
 #### Conference
 
+- Quark-Engine, [Blackhat Asia Arsenal](https://www.blackhat.com/asia-24/arsenal/schedule/index.html#quark-script---dig-vulnerabilities-in-the-blackbox-37549), 2024
 - Axelle Apvrille, [Live Reverse of Android Malware](https://youtu.be/Z68TJvnepnY?t=5583), Toulouse Hacking Convention, 2021
 - Axelle Apvrille, [Reverse Android malware like a Jedi Master](https://vblocalhost.com/presentations/reverse-android-malware-like-a-jedi-master/), [slides](https://github.com/quark-engine/ref/blob/main/VB2021-26.pdf), VB2021, 2021
 - Quark-Engine, [Blackhat Asia Arsenal](https://www.blackhat.com/asia-21/arsenal/schedule/index.html#quark-engine-storyteller-of-android-malware-22458), 2021
