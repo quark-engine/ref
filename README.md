@@ -31,6 +31,7 @@ Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec
 #### OS
 - Quark-Engine, [Kali Linux](https://pkg.kali.org/pkg/quark-engine), 2021
 - Quark-Engine, [BlackArch](https://blackarch.org/mobile.html), 2020
+- Quark-Engine, [NixOS](https://search.nixos.org/packages?channel=24.05&show=quark-engine&from=0&size=50&sort=relevance&type=packages&query=quark+engine), 2024
 
 #### Book Chapter
 - Quark-Engine, [軟體測試實務：業界成功案例與高校實踐](https://www.tenlong.com.tw/products/9786263334861?list_name=lv), 2023
