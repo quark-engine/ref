@@ -27,6 +27,7 @@ Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec
 - Patel, Himanshu, et al. ["Evaluation of Survivability of the Automatically Obfuscated Android Malware."](https://github.com/quark-engine/ref/blob/main/Evaluation%20of%20Survivability%20of%20the%20Automatically%20Obfuscated%20Android%20Malware.pdf) Applied Sciences 12.10 (2022): 4969.
 - Islam, Md Rafid, Ratun Rahman, and Akib Ahmed. [A Study of Permission-based Malware Detection Using Machine Learning.](https://github.com/quark-engine/ref/blob/main/Rafid_thesis_fulltext.pdf) Diss. Department of Computer Science and Engineering (CSE), Islamic University of Technology (IUT), Board Bazar, Gazipur, Bangladesh, 2022.
 - ChunYu Zhunag, [Ethical Hacking of a Smart IoT Camera](https://github.com/quark-engine/ref/blob/main/Ethical%20Hacking%20of%20a%20Smart%20IoT%20Camera.pdf), Degree Project in Communication Systems, KTH Royal Institute of Technology, Stockholm, Sweden, 2023.
+- S. A. Khan et al., [An Android Applications Vulnerability Analysis Using MobSF](https://ieeexplore.ieee.org/abstract/document/10581312), 2024 International Conference on Engineering & Computing Technologies (ICECT), Islamabad, Pakistan, pp. 1-7, doi: 10.1109/ICECT61618.2024.10581312, 2024
 
 #### OS
 - Quark-Engine, [Kali Linux](https://pkg.kali.org/pkg/quark-engine), 2021
