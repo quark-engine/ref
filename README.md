@@ -38,6 +38,7 @@ Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec
 - Quark-Engine, [軟體測試實務：業界成功案例與高校實踐](https://www.tenlong.com.tw/products/9786263334861?list_name=lv), 2023
 
 #### MISC
+- Greater Internet Freedom, [Mobile Forensic Analysis: A Case Study Walkthrough – Application analysis: a static approach](https://greaterinternetfreedom.org/course/mobile-forensic-analysis-a-case-study-walkthrough-part-03-application-analysis-a-static-approach/), 2025
 - Aloysius Lee, [Android RATs — The Sneaky Malware Rodent](https://medium.com/d-classified/android-rats-the-sneaky-malware-rodent-4a3272a790ef), 2024
 - Paul Bischoff, [Flawed credential storage in top Android apps puts users at risk
 ](https://www.comparitech.com/blog/information-security/flawed-credential-storage-android-apps/), Comparitech, 2021
