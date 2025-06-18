@@ -19,6 +19,7 @@
 
 
 #### Paper
+- K. Piyumantha, J. Senanayake and K. Wijayasiriwardhane, "[DroidKey: A Practical Framework and Analysis Tool for API Key Security in Android Applications](https://ieeexplore.ieee.org/abstract/document/11030956)," 2025 International Research Conference on Smart Computing and Systems Engineering (SCSE), Colombo, Sri Lanka, 2025, pp. 1-6, doi: 10.1109/SCSE65633.2025.11030956.
 - Hendrik Maulana Mardiyansyah, Eka Kurnia Sari, Imam Baehaki, Mohammad Agus
 Prihandono, [PAPIdroid: A Risk Scoring of Android Malware Apps Based on
 Permissions and API Call](https://static.s123-cdn.com/uploads/903920/normal_5fec08b3bcd16.pdf), AASE International Conference, 2020
