@@ -19,6 +19,7 @@
 
 
 #### Paper
+- Nagarajan, M. K., et al. "[Comprehensive Research on Mobile Application Security Assessment.](https://ieeexplore.ieee.org/abstract/document/11052915/)" 2025 International Conference on Computational Robotics, Testing and Engineering Evaluation (ICCRTEE). IEEE, 2025.
 - K. Piyumantha, J. Senanayake and K. Wijayasiriwardhane, "[DroidKey: A Practical Framework and Analysis Tool for API Key Security in Android Applications](https://ieeexplore.ieee.org/abstract/document/11030956)," 2025 International Research Conference on Smart Computing and Systems Engineering (SCSE), Colombo, Sri Lanka, 2025, pp. 1-6, doi: 10.1109/SCSE65633.2025.11030956.
 - Hendrik Maulana Mardiyansyah, Eka Kurnia Sari, Imam Baehaki, Mohammad Agus
 Prihandono, [PAPIdroid: A Risk Scoring of Android Malware Apps Based on
