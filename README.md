@@ -19,6 +19,7 @@
 
 
 #### Paper
+- AGNELLO, MICHELE. "[Security comparison between Xiaomi system applications and Xiaomi applications on the Google Play Store.](https://thesis.unipd.it/retrieve/6f43d2ab-a5ae-4ff9-8bdf-51179336cf8a/Tesi_Michele_Agnello_1238581_Finale.pdf)", Master Thesis in Computer Science, Department of Mathematics "Tullio Levi-Civita", University of Padova
 - Nagarajan, M. K., et al. "[Comprehensive Research on Mobile Application Security Assessment.](https://ieeexplore.ieee.org/abstract/document/11052915/)" 2025 International Conference on Computational Robotics, Testing and Engineering Evaluation (ICCRTEE). IEEE, 2025.
 - K. Piyumantha, J. Senanayake and K. Wijayasiriwardhane, "[DroidKey: A Practical Framework and Analysis Tool for API Key Security in Android Applications](https://ieeexplore.ieee.org/abstract/document/11030956)," 2025 International Research Conference on Smart Computing and Systems Engineering (SCSE), Colombo, Sri Lanka, 2025, pp. 1-6, doi: 10.1109/SCSE65633.2025.11030956.
 - Hendrik Maulana Mardiyansyah, Eka Kurnia Sari, Imam Baehaki, Mohammad Agus
